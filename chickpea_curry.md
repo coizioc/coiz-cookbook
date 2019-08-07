@@ -11,6 +11,7 @@ This recipe serves 2 people.
 - 1 shallot, minced
 - 1 scallion, sliced and separated into white and green parts
 - 1 jalapeno, minced (sub. quarter bell pepper)
+- 1 lime
 - 1/2 can coconut milk
 - Oil for cooking
 - Salt and pepper
@@ -23,5 +24,5 @@ This recipe serves 2 people.
 
 1. Heat oil in pan over medium heat. Add jalapeno, garlic, ginger, shallot, and white part of scallion and cook until softened.
 2. Add the spices and chickpeas. Optionally add butter for a richer flavor. Let fry for a couple minutes.
-3. Add coconut milk to cover and let simmer for 10 minutes.
+3. Add coconut milk to cover and let simmer for 10 minutes, stirring occasionally. Take off the heat and squeeze the juice of one lime into the curry.
 4. Serve over rice and garnish with green part of scallion.
